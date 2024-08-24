@@ -73,8 +73,8 @@ body {
   opacity: 0;
   color: #f0eba3;
   animation-name: bottomFadeOut;
-  animation-delay: 35s;
-  animation-duration: 20s;
+  animation-delay: 30s;
+  animation-duration: 15s;
 }
 .Next page {
   font-size: 5.0rem;
