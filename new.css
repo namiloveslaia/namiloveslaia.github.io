@@ -76,6 +76,13 @@ body {
   animation-delay: 35s;
   animation-duration: 20s;
 }
+.Next page {
+  font-size: 1.5rem;
+  position: bottom-left;
+  left: 25%;
+  bottom: 25%;
+  color: white;
+}
 
 @keyframes topFadeOut {
   0% {
