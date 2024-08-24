@@ -34,7 +34,7 @@ body {
   top: 8.5rem;
   opacity: 0;
   animation-name: rightFadeInOut;
-  animation-delay: 10s;
+  animation-delay: 15s;
   animation-duration: 5s;
   color: #ccc;
 }
@@ -43,12 +43,12 @@ body {
   transform: absolute;
   font-size: 2rem;
   position: absolute;
-  left: 45%;
+  left: 2.5rem;
   top: 45%;
   opacity: 0;
   animation-name: topFadeOutVertical;
-  animation-delay: 15s;
-  animation-duration: 5s;
+  animation-delay: 20s;
+  animation-duration: 7s;
   color: #a3ddf0;
   white-space: nowrap;
 }
@@ -61,8 +61,8 @@ body {
   opacity: 0;
   color: #f0a3be;
   animation-name: fadeInOut;
-  animation-delay: 20s;
-  animation-duration: 5s;
+  animation-delay: 25s;
+  animation-duration: 9s;
 }
 
 .fifth-text {
@@ -74,7 +74,7 @@ body {
   color: #f0eba3;
   animation-name: bottomFadeOut;
   animation-delay: 25;
-  animation-duration: 9s;
+  animation-duration: 12s;
 }
 
 @keyframes topFadeOut {
