@@ -78,8 +78,7 @@ body {
 }
 .Next page {
   font-size: 5.0rem;
-  position: absolute;
-  right: 25%;
+  right: 100%;
   bottom: 100%;
   color: #f0eba3;
 }
