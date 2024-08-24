@@ -34,7 +34,7 @@ body {
   top: 8.5rem;
   opacity: 0;
   animation-name: rightFadeInOut;
-  animation-delay: 10s;
+  animation-delay: 3s;
   animation-duration: 10s;
   color: #ccc;
 }
@@ -47,7 +47,7 @@ body {
   top: 45%;
   opacity: 0;
   animation-name: topFadeOutVertical;
-  animation-delay: 10s;
+  animation-delay: 5.5s;
   animation-duration: 10s;
   color: #a3ddf0;
   white-space: nowrap;
