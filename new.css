@@ -77,8 +77,8 @@ body {
   animation-duration: 20s;
 }
 .Next page {
-  font-size: 3.0rem;
-  position: bottom-left;
+  font-size: 5.0rem;
+  position: absolute;
   right: 25%;
   bottom: 100%;
   color: #f0eba3;
