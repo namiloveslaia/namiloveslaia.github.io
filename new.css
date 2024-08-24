@@ -1,6 +1,6 @@
 body {
   font-style: Arial;
-  background: black;
+  background: maroon;
 }
 
 .animation-box {
@@ -24,7 +24,7 @@ body {
   top: 5rem;
   opacity: 0;
   animation-name: topFadeOut;
-  animation-duration: 5s;
+  animation-duration: 10s;
   color: white;
 }
 
@@ -34,21 +34,21 @@ body {
   top: 8.5rem;
   opacity: 0;
   animation-name: rightFadeInOut;
-  animation-delay: 3s;
-  animation-duration: 6s;
+  animation-delay: 10s;
+  animation-duration: 10s;
   color: #ccc;
 }
 
 .third-text {
-  transform: rotate(-90deg);
+  transform: absolute;
   font-size: 2rem;
   position: absolute;
   left: 45%;
   top: 45%;
   opacity: 0;
   animation-name: topFadeOutVertical;
-  animation-delay: 7.5s;
-  animation-duration: 6s;
+  animation-delay: 10s;
+  animation-duration: 10s;
   color: #a3ddf0;
   white-space: nowrap;
 }
@@ -74,7 +74,7 @@ body {
   color: #f0eba3;
   animation-name: bottomFadeOut;
   animation-delay: 10s;
-  animation-duration: 9s;
+  animation-duration: 10s;
 }
 
 @keyframes topFadeOut {
