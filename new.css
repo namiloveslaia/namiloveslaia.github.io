@@ -66,7 +66,7 @@ body {
 }
 
 .fifth-text {
-  font-size: 5rem;
+  font-size: 4.5rem;
   position: absolute;
   left: 5%;
   bottom: 25%;
@@ -74,7 +74,7 @@ body {
   color: #f0eba3;
   animation-name: bottomFadeOut;
   animation-delay: 30s;
-  animation-duration: 5s;
+  animation-duration: 15s;
 }
 
 @keyframes topFadeOut {
