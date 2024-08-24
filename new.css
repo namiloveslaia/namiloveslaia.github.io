@@ -74,7 +74,7 @@ body {
   color: #f0eba3;
   animation-name: bottomFadeOut;
   animation-delay: 25;
-  animation-duration: 8s;
+  animation-duration: 9s;
 }
 
 @keyframes topFadeOut {
