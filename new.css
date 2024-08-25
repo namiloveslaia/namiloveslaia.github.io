@@ -34,7 +34,7 @@ body {
   top: 8.5rem;
   opacity: 0;
   animation-name: rightFadeInOut;
-  animation-delay: 15s;
+  animation-delay: 12s;
   animation-duration: 5s;
   color: #ccc;
 }
@@ -47,7 +47,7 @@ body {
   top: 45%;
   opacity: 0;
   animation-name: topFadeOutVertical;
-  animation-delay: 20s;
+  animation-delay: 15s;
   animation-duration: 7s;
   color: #a3ddf0;
   white-space: nowrap;
@@ -61,7 +61,7 @@ body {
   opacity: 0;
   color: #f0a3be;
   animation-name: fadeInOut;
-  animation-delay: 25s;
+  animation-delay: 18s;
   animation-duration: 9s;
 }
 
@@ -72,8 +72,8 @@ body {
   bottom: 25%;
   opacity: 0;
   color: #f0eba3;
-  animation-name: bottomFadeOut;
-  animation-delay: 25s;
+  animation-name: fadeInOut;
+  animation-delay: 22s;
   animation-duration: 15s;
 }
 
@@ -145,20 +145,5 @@ body {
   100% {
     opacity: 0%;
 
-    @keyframes bottomFadeOut {
-  0% {
-    position: absolute;
-    bottom: -5rem;
-    opacity: 0;
-  }
-
-  75% {
-    position: absolute;
-    bottom: 25%;
-    opacity: 1;
-  }
-
-  100% {
-    opacity: 0;
   }
 }
